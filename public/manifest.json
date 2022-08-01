@@ -1,0 +1,19 @@
+{
+  "short_name": "Testbirds Challenge",
+  "name": "Testbirds Challenge",
+  "icons": [{
+      "src": "https://www.testbirds.com/wp-content/uploads/profile-birds-green-1200x1200-white.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.testbirds.com/wp-content/uploads/profile-birds-green-1200x1200-white.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,11 @@
+body {
+  background-color: beige;
+  font-family: Roboto, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+}
